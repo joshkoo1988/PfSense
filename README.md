@@ -9,6 +9,8 @@ This is my main repo to store all my PfSense guides for ease of access
 - <b>VNOPN micro firewall</b>
 - <b>Managed Switch</b>
 
+<h2>Guides</h2>
+
 [PfSense Install Guide](https://github.com/joshkoo1988/PfSense-firewall)
 
 
