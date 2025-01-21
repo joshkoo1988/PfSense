@@ -15,4 +15,6 @@ A central place to find all my PfSense guides
 
 [Configure and Trouble Shoot PfSense](https://github.com/joshkoo1988/configure_PfSense)
 
+[sending select traffic over VPN]()
 
+[PfSense Trouble Shooting guides](https://github.com/joshkoo1988/PfSense-Troubleshooting)
