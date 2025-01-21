@@ -1,4 +1,4 @@
-<h1>My PfSense repo</h1>
+<h1>PfSense Guides</h1>
 
 <h2>Description</h2>
 This is my main repo to store all my PfSense guides for ease of access
