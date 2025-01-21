@@ -1,7 +1,7 @@
 <h1>PfSense Guides</h1>
 
 <h2>Description</h2>
-This is my main repo to store all my PfSense guides for ease of access
+A central place to find all my PfSense guides
 <br />
 
 
