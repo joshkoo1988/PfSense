@@ -13,5 +13,6 @@ This is my main repo to store all my PfSense guides for ease of access
 
 [PfSense Install Guide](https://github.com/joshkoo1988/PfSense-firewall)
 
+[Configure and Trouble Shoot PfSense](https://github.com/joshkoo1988/configure_PfSense)
 
 
